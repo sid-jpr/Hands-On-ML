@@ -8,21 +8,21 @@
 5. _Shortlist Promising Models_
 6. _Fine-Tune the System_
 7. _Present Your Solution_
-8. _Launch!_
+8. _Launch !_
 
 ## STEPS
-```python
+```php
 # create workspace directory
 $ export ML_PATH = "$HOME/ml"		# custom
 $ mkdir -p $ML_PATH
 ```
-```python
+```php
 # check if pip installed
 $ python3 -m pip --version
 # upgrade pip module
 $ pyhton3 -m pip install --user -U pip
 ```
-```python
+```php
 # install virtualenv
 $ python3 -m pip install --user -U virtualenv
 # create isolated environment
@@ -33,7 +33,7 @@ $ virtualenv my_env
 $ cd $ML_PATH
 $ source my_env/bin/activate		# deactivate
 ```
-```python
+```php
 # install all 
 $ python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 # check installation
