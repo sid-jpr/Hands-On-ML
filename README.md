@@ -1,6 +1,6 @@
-# Machine Learning Projects
+## Machine Learning Projects
 
-## PROJECT CHECKLIST
+### PROJECT CHECKLIST
 1. _Frame the Problem & Look at Big Picture_
 2. _Get the Data_
 3. _Explore the Data_
@@ -10,7 +10,7 @@
 7. _Present Your Solution_
 8. _Launch !_
 
-## STEPS
+### STEPS
 ```php
 # create workspace directory
 $ export ML_PATH = "$HOME/ml"		# custom
